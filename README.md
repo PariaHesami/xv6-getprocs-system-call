@@ -1,6 +1,4 @@
 Project 1 – System Call Implementation for xv6
-Name: Paria Hesami
-Student ID: 218994442
 
 ---
 
